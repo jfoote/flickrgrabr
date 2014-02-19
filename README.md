@@ -5,7 +5,7 @@ Quick hack to get your original images back from your Flickr photostream, if you
 
 # Usage
 
-    python flickrgrabr.py <first page of stream>
+    python flickrgrabr.py <URI of first page of stream>
 
     For example:
         python flickrgrab.py http://www.flickr.com/photos/homatthew/12267802976
