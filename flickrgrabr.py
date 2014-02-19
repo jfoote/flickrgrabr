@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Jonathan Foote
+# jmfoote@loyola.edu
+# 18 Feb 2014
+
 import re, urllib2, sys, os, time
 
 def dump_err_page(errdir, uri, page):
