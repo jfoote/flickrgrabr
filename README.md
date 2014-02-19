@@ -3,6 +3,14 @@ flickrgrabr
 
 Quick hack to get your original images back from your Flickr photostream, if you're lucky. 
 
+# Usage
+
+    python flickrgrabr.py <first page of stream>
+
+    For example:
+        python flickrgrab.py http://www.flickr.com/photos/homatthew/12267802976
+    ... if you were homatthew
+
 # Background
 
 I found out I have an old Flickr photostream that contains some photos that I took long ago with my BlackBerry Pearl. I didn't have copies anywhere else, so I wanted to download them. 
